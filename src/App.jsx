@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>Trabajo final ✍🏽</h1>
+      <h1>Trabajo final integrador</h1>
     </>
   );
 }
